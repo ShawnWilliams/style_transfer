@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+#added by Shawn
+flower_pattern/*
+!/flower_pattern/299.png
+flower_starryNight_checkpoints/
+graphs/
+imagenet-vgg-verydeep-19.mat
+
